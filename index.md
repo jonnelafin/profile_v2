@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Jonnelafin
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+This site won't get any more generic.
